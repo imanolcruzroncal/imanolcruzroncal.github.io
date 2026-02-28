@@ -4,8 +4,8 @@ const site = {
     title: "Engineering & Data Science",
     description: "Collection of engineering projects, data science work, and applied research focused on data-driven decision making and operational excellence",
     author: "Imanol Cruz",
-    logo: "/logo.svg",
-    ogImage: "/og-image.png",
+    logo: "/logoima.png",
+    ogImage: "/logoima.png",
     // HTML lang attribute, affects page language and date formatting
     // Options: "zh-CN", "en", "ja", etc.
     lang: "en",
