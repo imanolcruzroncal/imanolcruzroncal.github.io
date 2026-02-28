@@ -35,7 +35,7 @@ const site = {
     description:
       'Industrial Engineer and M.S. candidate in Engineering Management applying quantitative analysis, statistical modeling, and structured project execution to optimize operational systems.',
     cards: [
-      { icon: "mdi:briefcase", label: "Focus", value: "Engineering & Data Science" },
+      { icon: "mdi:briefcase", label: "Focus", value: "Data Science" },
       { icon: "mdi:location", label: "Location", value: "Chattanooga, TN" },
     ],
   },

@@ -5,11 +5,11 @@ description: About this site and its author
 
 ## About Me
 
-I am an Industrial Engineer and M.S. candidate in Engineering Management at the University of Tennessee at Chattanooga. My work focuses on applying quantitative analysis, statistical modeling, and structured project execution to improve operational performance and support data-driven decision making.
+I am an Industrial Engineer and M.S. candidate in Engineering Management at the University of Tennessee at Chattanooga, with a strong focus on Data Science and quantitative analysis. My work centers on applying statistical modeling, data analytics, and structured project execution to improve operational performance and support evidence-based decision making.
 
-With a background in engineering and a strong interest in analytics, I specialize in translating complex data into actionable insights. I am particularly interested in operations optimization, performance measurement, and the intersection between engineering systems and data science.
+With a foundation in engineering systems and advanced analytical methods, I specialize in transforming complex datasets into actionable insights. I am particularly interested in predictive modeling, performance optimization, and the integration of data science techniques within operational and strategic environments.
 
-I approach projects with a structured, analytical mindset, combining technical rigor with practical implementation. My goal is to design solutions that are measurable, scalable, and aligned with strategic objectives.
+I approach problems with a rigorous, data-driven mindset, combining technical depth with practical implementation. My objective is to design analytical solutions that are scalable, measurable, and aligned with organizational strategy.
 
 ## Core Competencies
 
