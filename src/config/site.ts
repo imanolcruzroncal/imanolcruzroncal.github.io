@@ -1,9 +1,9 @@
 const site = {
   // --- Site Metadata ---
   meta: {
-    title: "Breeze",
-    description: "A minimal Astro theme for personal websites",
-    author: "Your Name",
+    title: "Engineering & Data Science",
+    description: "Collection of engineering projects, data science work, and applied research focused on data-driven decision making and operational excellence",
+    author: "Imanol Cruz",
     logo: "/logo.svg",
     ogImage: "/og-image.png",
     // HTML lang attribute, affects page language and date formatting
@@ -15,33 +15,34 @@ const site = {
   // subtitle: decorative label shown below the name (uppercase, small text)
   navigation: [
     { name: "Home", subtitle: "Index", href: "/" },
-    { name: "Writing", subtitle: "Blog", href: "/posts" },
-    { name: "Projects", subtitle: "Works", href: "/projects" },
-    { name: "Friends", subtitle: "Links", href: "/friends" },
     { name: "About", subtitle: "Me", href: "/about" },
+    { name: "Projects", subtitle: "Works", href: "/projects" },
+    { name: "Dashboards", subtitle: "Analytics", href: "/posts" },
+    
   ],
 
   // --- Social Links ---
   social: [
-    { name: "GitHub", href: "https://github.com/your-username", icon: "mdi:github" },
-    { name: "Email", href: "mailto:hello@example.com", icon: "mdi:email" },
+    { name: "GitHub", href: "https://github.com/imanolcruzroncal", icon: "mdi:github" },
+    { name: "LinkedIn", href: "https://www.linkedin.com/in/imanolcruzroncal", icon: "mdi:linkedin" },
+    { name: "Email", href: "mailto:imanolcruzroncal@gmail.com", icon: "mdi:email" },
   ],
 
   // --- Homepage Hero ---
   hero: {
-    greeting: "👋 Hello, I'm Breeze",
+    greeting: "Abraham Imanol Cruz Roncal",
     // Supports HTML. Use <span class="font-medium text-foreground underline decoration-primary/30"> to highlight keywords
     description:
-      'A minimal personal website theme built with <span class="font-medium text-foreground underline decoration-primary/30">Astro</span> and <span class="font-medium text-foreground underline decoration-primary/30">Tailwind CSS</span>.',
+      'Industrial Engineer and M.S. candidate in Engineering Management applying quantitative analysis, statistical modeling, and structured project execution to optimize operational systems.',
     cards: [
-      { icon: "mdi:explore", label: "Status", value: "Building something cool" },
-      { icon: "mdi:location", label: "Location", value: "Earth" },
+      { icon: "mdi:briefcase", label: "Focus", value: "Engineering & Data Science" },
+      { icon: "mdi:location", label: "Location", value: "Chattanooga, TN" },
     ],
   },
 
   // --- Footer ---
   footer: {
-    copyright: "© 2025 Breeze",
+    copyright: "© 2026 Imanol Cruz",
     builtWith: "Built with Astro",
   },
 
@@ -69,24 +70,19 @@ const site = {
   // --- UI Labels ---
   // Customize these values to change the text displayed on pages
   labels: {
-    postsTitle: "Writing",
-    postsDescription: "Notes, thoughts, and technical musings",
+    postsTitle: "Dashboards",
+    postsDescription: "Interactive dashboards, KPI tracking, and analytical reports.",
     projectsTitle: "Projects",
-    projectsDescription: "Small tools built for fun or to solve real problems.",
-    friendsTitle: "Friends",
-    friendsDescription: "Like-minded folks around the web.",
-    toolsTitle: "Stack",
+    projectsDescription: "Selected engineering and data science projects.",
     aboutTitle: "About",
-    aboutDescription: "About this site and its author",
-    backToPosts: "Back to posts",
+    aboutDescription: "Background, skills, and experience.",
+    backToPosts: "Back to dashboards",
     goHome: "Go Home",
     notFoundTitle: "Page not found",
     notFoundDescription: "The page you're looking for may have been removed or the link is broken.",
-    endOfPost: "End of Post",
-    tableOfContents: "Table of Contents",
-    searchPlaceholder: "Search posts, tags, or commands...",
-    searchNavigate: "Navigate",
-    commentSuccess: "Comment submitted",
+    endOfPost: "End of Dashboard",
+    tableOfContents: "Contents",
+    searchPlaceholder: "Search dashboards or keywords...",
   },
 
   ogImage: "/og-image.png",
